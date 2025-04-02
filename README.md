@@ -16,4 +16,4 @@ The Student Management System project is a web-based application that allows use
 - Update student details  
 - Delete student records  
 
-
+Use this link for excution: http://localhost:8080/students
